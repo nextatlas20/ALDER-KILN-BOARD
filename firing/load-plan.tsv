@@ -1,0 +1,8 @@
+status	kiln_id	load_sequence	piece_id	piece_name	cone	volume_l	urgency	due_date
+allocated	KL-A01	1	PC-108	Redwood Basin	6	7	rush	2067-06-01
+allocated	KL-A01	2	PC-105	Ochre Tile Set	6	3	standard	2067-06-04
+allocated	KL-B02	1	PC-104	Night Vase	10	3	standard	2067-06-02
+allocated	KL-C03	1	PC-101	River Bowl	6	6	rush	2067-06-03
+allocated	KL-E05	1	PC-102	Juniper Cups	10	4	rush	2067-06-02
+unassigned	—	—	PC-103	Moss Platter	6	5	standard	2067-06-01
+unassigned	—	—	PC-106	Pine Jar	10	6	standard	2067-06-05
