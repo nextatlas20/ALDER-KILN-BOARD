@@ -1,0 +1,13 @@
+[
+  {"piece_id":"PC-101","piece_name":"River Bowl","cone":6,"volume_l":6,"urgency":"rush","due_date":"2067-06-03","state":"ready","revision":1},
+  {"piece_id":"PC-102","piece_name":"Juniper Cups","cone":10,"volume_l":4,"urgency":"rush","due_date":"2067-06-02","state":"ready","revision":1},
+  {"piece_id":"PC-103","piece_name":"Moss Platter","cone":6,"volume_l":5,"urgency":"standard","due_date":"2067-06-01","state":"ready","revision":1},
+  {"piece_id":"PC-104","piece_name":"Night Vase","cone":10,"volume_l":3,"urgency":"standard","due_date":"2067-06-02","state":"ready","revision":1},
+  {"piece_id":"PC-105","piece_name":"Ochre Tile Set","cone":6,"volume_l":3,"urgency":"standard","due_date":"2067-06-04","state":"ready","revision":1},
+  {"piece_id":"PC-106","piece_name":"Pine Jar","cone":10,"volume_l":6,"urgency":"standard","due_date":"2067-06-05","state":"ready","revision":1},
+  {"piece_id":"PC-107","piece_name":"Quartz Dish","cone":6,"volume_l":2,"urgency":"rush","due_date":"2067-06-01","state":"waiting","revision":1},
+  {"piece_id":"PC-108","piece_name":"Redwood Basin","cone":6,"volume_l":7,"urgency":"rush","due_date":"2067-06-01","state":"ready","revision":1},
+  {"piece_id":"PC-105","piece_name":"Ochre Tile Set","cone":6,"volume_l":3,"urgency":"standard","due_date":"2067-06-04","state":"ready","revision":2},
+  {"piece_id":"PC-109","piece_name":"Split|Tray","cone":6,"volume_l":2,"urgency":"standard","due_date":"2067-06-03","state":"ready","revision":1},
+  {"piece_id":"BAD-10","piece_name":"Invalid","cone":10,"volume_l":2,"urgency":"rush","due_date":"2067-06-01","state":"ready","revision":1}
+]

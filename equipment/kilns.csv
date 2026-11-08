@@ -1,0 +1,9 @@
+kiln_id,kiln_name,cone,capacity_l,active,revision
+KL-A01,Aurora,6,8,yes,1
+KL-B02,Bramble,10,7,yes,1
+KL-C03,Cinder,6,6,yes,1
+KL-D04,Dovetail,6,12,no,2
+KL-E05,Ember,10,5,yes,1
+KL-A01,Aurora,6,10,yes,2
+KL-Z99,Bad Kiln,04,9,yes,1
+KL-B02,Bramble Annex,10,9,yes,0
